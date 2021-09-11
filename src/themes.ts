@@ -43,7 +43,7 @@ export const lightTheme = createTheme({
       },
     },
     primary: {
-      main: '#2E77D0',
+      main: '#000000',
     },
     banner: {
       info: '#2E77D0',
@@ -66,7 +66,7 @@ export const lightTheme = createTheme({
     link: '#0A6EBE',
     gold: yellow.A700,
     navigation: {
-      background: '#171717',
+      background: '#000000',
       indicator: '#9BF0E1',
       color: '#b5b5b5',
       selectedColor: '#FFF',
